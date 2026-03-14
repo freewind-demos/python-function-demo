@@ -1,20 +1,12 @@
-# Python 函数
+# Python function
 
 ## 启动
 
 ```bash
-python function.py
+python python-function-demo/*.py
 ```
 
-## 函数定义
+## 教程
 
-```python
-def function_name(params):
-    return value
-```
+Python function 示例。
 
-## Lambda
-
-```python
-square = lambda x: x ** 2
-```
